@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Mac Studio",
+    "description": "Мощная станция",
+    "costKGS": "204 240",
+    "costUSD": "2300,0",
+    "image": "https://www.istore.kg/media/main_page/mac-studio-202203-gallery-1_GpzEcuV.webp",
+    "link": "https://www.istore.kg/media/main_page/mac-studio-202203-gallery-1_GpzEcuV.webp"
+  },
+  {
+    "name": "SanDisk Extreme®",
+    "description": "Мощный и портативный",
+    "costKGS": "17 671",
+    "costUSD": "199,0",
+    "image": "https://www.istore.kg/media/main_page/sale_P8wO1kO.webp",
+    "link": "https://www.istore.kg/catalog/product/1241"
+  },
+  {
+    "name": "\uF8FFWatch Ultra",
+    "description": "Приключения ждут",
+    "costKGS": "73 704",
+    "costUSD": "830,0",
+    "image": "https://www.istore.kg/media/main_page/main-ultra.webp",
+    "link": "https://www.istore.kg/catalog/product/952"
+  },
+  {
+    "name": "Apple TV 4K",
+    "description": "Киношный во всех смыслах",
+    "costKGS": "14 208",
+    "costUSD": "160,0",
+    "image": "https://www.istore.kg/media/main_page/apple-tv-4k-2022_ABsQgkR.webp",
+    "link": "https://www.istore.kg/catalog/product/1004"
+  },
+  {
+    "name": "HomePod mini",
+    "description": "Звук, заполняющий комнату",
+    "costKGS": "11 544",
+    "costUSD": "130,0",
+    "image": "https://www.istore.kg/media/main_page/homepod-mini.webp",
+    "link": "https://www.istore.kg/catalog/product/98"
+  },
+  {
+    "name": "AirTag",
+    "description": "Находчивые штучки",
+    "costKGS": "3 108",
+    "costUSD": "35,0",
+    "image": "https://www.istore.kg/media/main_page/airtag-key_UydLkmV_DFLucfg.webp",
+    "link": "https://www.istore.kg/catalog/product/324"
+  }
+]

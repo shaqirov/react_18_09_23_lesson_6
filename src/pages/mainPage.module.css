@@ -1,0 +1,11 @@
+.gadgets_block {
+    display: grid;
+    grid-template-columns: 464px 464px 464px;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.news_block {
+    display: flex;
+    justify-content: center;
+}

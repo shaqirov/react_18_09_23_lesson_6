@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'SF-Pro-Display-Semibold';
+    src: url("../../assets/fonts/SF-Pro-Display-Semibold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'SF-Pro-Display-Regular';
+    src: url("../../assets/fonts/SF-Pro-Display-Regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'SF-Pro-Display-Light';
+    src: url("../../assets/fonts/SF-Pro-Display-Light.otf") format("opentype");
+}
+
+.title {
+    font-style: normal;
+    font-size: 50px;
+    line-height: 110%;
+    color: #1D1D1F;
+    font-family: 'SF-Pro-Display-Semibold';
+    margin-top: 40px;
+}
+
+.text {
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 120%;
+    color: #828282;
+    font-family: 'SF-Pro-Display-Light';
+}
+
+.link {
+    font-size: 18px;
+    line-height: 21px;
+    color: #5E8BCE;
+    font-family: 'SF-Pro-Display-Regular';
+    text-decoration: none;
+    margin-bottom: 40px;
+}
+
+.link:hover {
+    text-decoration: underline;
+    color: #0056b3;
+}
